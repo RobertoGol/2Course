@@ -40,6 +40,8 @@ git add .<br>
 git commit -m "add files"<br>
 git pull(if have a problem)<br>
 git push<br>
+    <br>
+    And go to Web Github
   <br>
 </h2>  
 <br>
