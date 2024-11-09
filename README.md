@@ -33,5 +33,5 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 <br>
 <h1></h1>
 <h3>Info from this Site:</h3>
-<h4>▢ <p>https://launchschool.com/books/git/read/cheatsheets</p></h4>
-<h4>▢ <p>https://wizardzines.com/comics/</p></h4>
+<h4>▢ https://launchschool.com/books/git/read/cheatsheets</h4>
+<h4>▢ https://wizardzines.com/comics/</h4>
