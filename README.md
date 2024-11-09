@@ -31,6 +31,17 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 </p>
 <br>
 <br>
+<h2>
+  
+cd: repository
+git add .
+git commit -m "add files"
+git pull(if have a problem)
+git push
+  
+</h2>  
+<br>
+<br>
 <h1></h1>
 <h3>Info from this Site:</h3>
 <h4>▢ https://launchschool.com/books/git/read/cheatsheets</h4>
