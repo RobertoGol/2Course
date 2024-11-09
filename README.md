@@ -9,3 +9,9 @@
 |:-------:|    |
 |:-------:|    |
 |    |    |
+
+
+|    |    |    |
+|:-------:|:-------:|:---------:|
+|![Compact](https://github.com/RobertoGol/DedSec-Theme-for_Discord/blob/main/Picture/watch_dogs_dedsec-wallpaper-1366x768.jpg )|![HackerDen](https://github.com/RobertoGol/DedSec-Theme-for_Discord/blob/main/Picture/Watch-Dogs-DEDSEC-Watch-Dogs-2-1142418-wallhere.com.jpg)|![--](https://github.com/RobertoGol/DedSec-Theme-for_Discord/blob/main/Picture/R.jpg)|
+|**Compact**|**Hub**|**Blume**|
