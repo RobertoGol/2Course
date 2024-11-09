@@ -1,7 +1,0 @@
-<div align="center">
-  <b>Add things to Github</b>
-</div>
-
-<p align="center">
-  <img width=90% src="https://github.com/RobertoGol/2Course/study_materials/ef7a2059acc9cbf9.png" alt="Pictere" />
-</p>
