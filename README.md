@@ -19,5 +19,7 @@ hint: (e.g., 'git pull ...') before pushing again.<br>
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 </p>
 <br>
+<h3>USE: [git pull] commmand</h3>
 <br>
-<p>USE: [git pull] commmand</p>
+<br>
+<br>
