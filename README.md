@@ -35,6 +35,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 <h3>Info from this Site:</h3>
 <h4>▢ https://launchschool.com/books/git/read/cheatsheets</h4>
 <h4>▢ https://wizardzines.com/comics/</h4>
+<h4>▢ another info on  offical web site of Git with .md instructions
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://discord.gg/[PC]RobertoGol {.robertogol}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[PC]RobertoGol {.robertogol}" height="30" width="40"  style="max-width: 100%;margin-bottom: 7px;" />[PC]RobertoGol &nbsp;&nbsp;&nbsp;&nbsp; {.roberto}</a>
