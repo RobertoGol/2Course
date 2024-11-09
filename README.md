@@ -9,9 +9,9 @@
 <br>
 
 $ git push origin master<br>
-To https://github.com/merrymaker14/uploadca.git(example)<br>
+To https://github.com/merrymaker14/uploadca.git  (example)<br>
 ! [rejected]        master -> master (fetch first)<br>
-error: failed to push some refs to https://github.com/merrymaker14/uploadca.git'(example)<br>
+error: failed to push some refs to https://github.com/merrymaker14/uploadca.git'  (example)<br>
 hint: Updates were rejected because the remote contains work that you do<br>
 hint: not have locally. This is usually caused by another repository pushin<br>
 hint: to the same ref. You may want to first integrate the remote changes<br>
