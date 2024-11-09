@@ -32,13 +32,13 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 <br>
 <br>
 <h2>
-  
-cd: repository
-git add .
-git commit -m "add files"
-git pull(if have a problem)
-git push
-  
+  <br>
+cd: repository<br>
+git add .<br>
+git commit -m "add files"<br>
+git pull(if have a problem)<br>
+git push<br>
+  <br>
 </h2>  
 <br>
 <br>
