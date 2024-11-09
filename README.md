@@ -33,7 +33,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 <br>
 <h2>
   <br>
-  <h3>How we pushing to Github<h3>
+  <h3>How we pushing to Github</h3>
   <br>
 cd: repository<br>
 git add .<br>
@@ -43,7 +43,7 @@ git push<br>
     <br>
     And go to Web Github
   <br>
-    <h3></h3>
+    <h3>_</h3>
 </h2>  
 <br>
 <br>
