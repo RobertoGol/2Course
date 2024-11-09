@@ -42,8 +42,8 @@ git pull(if have a problem)<br>
 git push<br>
     <br>
     And go to Web Github
-  <br>
-    <h1>.</h1>
+    <h1></h1>
+<br>
 </h2>  
 <br>
 <br>
