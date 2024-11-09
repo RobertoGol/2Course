@@ -7,7 +7,6 @@
  <h3>If Have Problem Like this:</h3>
 
 <br>
-<br>
 
 $ git push origin master<br>
 To https://github.com/merrymaker14/uploadca.git<br>
@@ -19,5 +18,6 @@ hint: to the same ref. You may want to first integrate the remote changes<br>
 hint: (e.g., 'git pull ...') before pushing again.<br>
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 </p>
+<br>
 <br>
 <p>USE: [git pull] commmand</p>
