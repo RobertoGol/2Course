@@ -19,7 +19,7 @@ hint: (e.g., 'git pull ...') before pushing again.<br>
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 </p>
 <br>
-<h3>USE: [git pull] or [git pull --allow-unrelated-histories] commmand</h3>
+<h3>USE: [ git pull ] or [ git pull --allow-unrelated-histories ] commmand</h3>
 <br>
 <br>
 <br>
