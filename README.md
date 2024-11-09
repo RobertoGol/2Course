@@ -23,3 +23,9 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 <br>
 <br>
 <br>
+<p align="center">
+  <img width=90% src="https://github.com/RobertoGol/2Course/blob/main/study_materials/git_cheatsheet.png" alt="Pictere" />
+</p>
+<p align="center">
+  <img width=90% src="https://github.com/RobertoGol/2Course/blob/main/study_materials/git_workflow.png" alt="Pictere" />
+</p>
