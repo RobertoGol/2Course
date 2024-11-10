@@ -1,3 +1,8 @@
+<div align="center">
+
+[![image](https://img.shields.io/badge/Gallery-%20%09%2332CD32)](https://github.com/RobertoGol/DedSec-Theme-for_Discord/blob/main/Gallery.md)
+[![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/DedSec-Theme-for_Discord/tree/main/Versions)
+
 
 </div>
 
