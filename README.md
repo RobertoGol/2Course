@@ -1,7 +1,7 @@
 <div align="center">
+<h2>Next Course [ III ]</h2>
 
-
-[![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/DedSec-Theme-for_Discord/tree/main/Versions)
+[![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/3Course)
 
 
 </div>
