@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Next Course [ III ]</h2>
+<h4>Next Course [ III ]</h4>
 
 [![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/3Course)
 
