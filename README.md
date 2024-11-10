@@ -18,6 +18,11 @@ hint: to the same ref. You may want to first integrate the remote changes<br>
 hint: (e.g., 'git pull ...') before pushing again.<br>
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 </p>
+
+<div align="center">
+[![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/DedSec-Theme-for_Discord/tree/main/Versions)
+</div>
+  
 <br>
 <h3>USE: [ git pull ] or [ git pull --allow-unrelated-histories ] commmand</h3>
 <br>
