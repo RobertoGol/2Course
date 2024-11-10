@@ -1,13 +1,9 @@
-<h1>
-  <p align="center">
- [![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/DedSec-Theme-for_Discord/tree/main/Versions)
-  </p>
-</h1>
-<br>
-<br>
-<br>
-<br>
 
+</div>
+
+<p align="center">
+  <img width=90% src="https://github.com/RobertoGol/2Course/blob/main/study_materials/ef7a2059acc9cbf9.png" alt="Pictere" />
+</p>
  <h3>If Have Problem Like this:</h3>
 
 <br>
@@ -22,11 +18,6 @@ hint: to the same ref. You may want to first integrate the remote changes<br>
 hint: (e.g., 'git pull ...') before pushing again.<br>
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 </p>
-
-<div align="center">
-[![image](https://img.shields.io/badge/GitHub-8A2BE2)](https://github.com/RobertoGol/DedSec-Theme-for_Discord/tree/main/Versions)
-</div>
-  
 <br>
 <h3>USE: [ git pull ] or [ git pull --allow-unrelated-histories ] commmand</h3>
 <br>
@@ -50,8 +41,7 @@ git commit -m "add files"<br>
 git pull(if have a problem)<br>
 git push<br>
     <br>
-    And go to Web Github
-    <h1></h1>
+    And go to Web Github  <h1></h1>
 <br>
 </h2>  
 <br>
