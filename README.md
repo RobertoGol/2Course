@@ -1,8 +1,10 @@
-
-
-<p align="center">
+<h1>
+  <p align="center">
   <img width=90% src="https://github.com/RobertoGol/2Course/blob/main/study_materials/ef7a2059acc9cbf9.png" alt="Pictere" />
-</p>
+  </p>
+</h1>
+<br>
+
  <h3>If Have Problem Like this:</h3>
 
 <br>
